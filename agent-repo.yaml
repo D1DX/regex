@@ -5,7 +5,7 @@
     "name": "Regex",
     "profile": "service-repo",
     "owner": "D1DX",
-    "root": "/Users/danielrudaev/Desktop/regex",
+    "root": "/Users/danielrudaev/Desktop/.cloud-align-work/regex",
     "requires_mcp_template": false
   },
   "providers": {
